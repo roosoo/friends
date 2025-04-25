@@ -9,7 +9,7 @@ defmodule Friends do
   ## Examples
 
       iex> Friends.hello()
-      :world
+      :ok
 
   """
   def hello do
