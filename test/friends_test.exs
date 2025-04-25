@@ -3,6 +3,6 @@ defmodule FriendsTest do
   doctest Friends
 
   test "greets the world" do
-    assert Friends.hello() == :world
+    assert Friends.hello() == :ok
   end
 end
