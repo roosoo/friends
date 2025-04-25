@@ -13,6 +13,6 @@ defmodule Friends do
 
   """
   def hello do
-    :world
+    :ok
   end
 end
